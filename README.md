@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Mehmet Alp 👋
 
-<!--
-**Alpinzo/Alpinzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems student at Kadir Has University.
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- Python
+- SQL
+- JavaScript
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Interested in:
+- Software Development
+- Game Development
+- Problem Solving
+
+🌱 Currently looking for internship opportunities.
+
+📫 Reach me:
+- LinkedIn: www.linkedin.com/in/mehmet-alp-topallı-6b8a2a245
+- Email: topallimehmetalp@gmail.com
