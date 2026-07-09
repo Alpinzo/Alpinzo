@@ -3,15 +3,17 @@
 🎓 Management Information Systems student at Kadir Has University.
 
 💻 Currently learning:
-- Python
-- SQL
-- JavaScript
-- PHP
+-Python
+-SQL
+-JavaScript
+-HTML
+-CSS
+-PHP
 
 🎮 Interested in:
 - Software Development
 - Game Development
-- Problem Solving
+- Artificial Intelligence
 
 🌱 Currently looking for internship opportunities.
 
